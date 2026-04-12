@@ -1,4 +1,4 @@
-## Sodade Linux - Sistema Operatido Português 
+## Sodade Linux - Sistema Operativo Português 
 
 Sodade Linux is a proof of concept for a Portuguese Linux distribution.  
 It is designed with simplicity, cultural identity, and accessibility in mind, aiming to bring a localized Linux experience.
@@ -23,7 +23,7 @@ Sodade Linux uses the **KDE Plasma Desktop**, offering:
 - Smooth performance even on modest hardware.  
 - Seamless integration with Qt-based applications.  
 
-### Dowload
+### Download
 
 Soon...
 
